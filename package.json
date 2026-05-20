@@ -1,0 +1,13 @@
+﻿{
+  "name": "velstra-boutique-reviews",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trustpilot-style Velstra Boutique reviews website.",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo Static site - no build step"
+  },
+  "devDependencies": {
+    "serve": "latest"
+  }
+}
